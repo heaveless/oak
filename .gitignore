@@ -88,5 +88,8 @@ typings/
 # Vite
 .vite/
 
+# Python
+.venv
+
 # Electron-Forge
 out/
